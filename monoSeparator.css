@@ -1,0 +1,6 @@
+.monoSeparator{
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+.monoSeparator.sizer{
+    visibility: hidden;
+}

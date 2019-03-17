@@ -1,0 +1,5 @@
+[core]
+	editor = 'C:\\Program Files\\Sublime Text 3\\sublime_text.exe' -w
+[user]
+	email = peck.robert@gmail.com
+	name = Bob
